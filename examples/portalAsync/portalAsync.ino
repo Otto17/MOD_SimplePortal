@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
-#include <SimplePortal.h>
+#include <MOD_SimplePortal.h>
 
 void setup() {
-  Serial.begin(9600);
+  Serial.begin(115200);
 
   // запускаем портал
   portalStart();

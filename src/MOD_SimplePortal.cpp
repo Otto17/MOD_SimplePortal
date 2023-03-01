@@ -10,8 +10,7 @@ static WebServer _SP_server(80);
 const char SP_connect_page[] PROGMEM = R"rawliteral(
 <!DOCTYPE HTML>
 <html><head>
-<meta name="viewport" content="width=device-width, initial-scale=1, charset=utf-8">
-<title>Портал настроек ESP</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 </head><body>
 <style type="text/css">
 	body { background-color:#848483; }

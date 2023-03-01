@@ -1,11 +1,11 @@
 #######################################
-# Syntax Coloring Map For SimplePortal
+# Syntax Coloring Map For MOD_SimplePortal
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
-SimplePortal	KEYWORD1
+MOD_SimplePortal	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)

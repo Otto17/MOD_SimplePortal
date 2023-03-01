@@ -11,6 +11,7 @@ const char SP_connect_page[] PROGMEM = R"rawliteral(
 <!DOCTYPE HTML>
 <html><head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8" />
 </head><body>
 <style type="text/css">
 	body { background-color:#848483; }

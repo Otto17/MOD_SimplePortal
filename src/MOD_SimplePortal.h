@@ -10,8 +10,8 @@
 
 */
 
-#define SP_AP_NAME "Wake-On-Line Connect"	// Название точки доступа
-#define SP_AP_IP 192,168,4,1        		// IP точки доступа
+#define SP_AP_NAME "ESP Config"		// Название точки доступа
+#define SP_AP_IP 192,168,4,1        	// IP точки доступа
 
 #ifndef _MOD_SimplePortal_h
 #define _MOD_SimplePortal_h
